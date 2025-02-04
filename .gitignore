@@ -1,0 +1,8 @@
+*.tmp
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Config/
+Content/
